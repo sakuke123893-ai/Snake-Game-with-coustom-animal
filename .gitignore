@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Logs & temp
+*.log
+.pytest_cache/
+.coverage
+
+# OS generated
+.DS_Store
+Thumbs.db
