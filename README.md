@@ -40,3 +40,4 @@ Launch using Python:
 python main.py
 ```
 Or double-click `run_game.bat` on Windows.
+
